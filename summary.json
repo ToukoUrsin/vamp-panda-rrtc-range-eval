@@ -1,0 +1,395 @@
+{
+ "seedgrid-explore-s0-19.json": {
+  "seeds": [
+   0,
+   19
+  ],
+  "reps": 3,
+  "configs": {
+   "stock": {},
+   "dd_off": {
+    "dynamic_domain": false
+   },
+   "r075": {
+    "range": 0.75
+   },
+   "r075_dd_off": {
+    "range": 0.75,
+    "dynamic_domain": false
+   },
+   "r125": {
+    "range": 1.25
+   },
+   "r125_dd_off": {
+    "range": 1.25,
+    "dynamic_domain": false
+   },
+   "r150": {
+    "range": 1.5
+   }
+  },
+  "summary": {
+   "box": {
+    "stock": {
+     "trials": 2000,
+     "valid": 1977,
+     "common": 1977,
+     "median_total_us_all_valid": 277.388,
+     "median_total_us_common": 277.388,
+     "stock_median_total_us_common": 277.388,
+     "wins_paired": 0
+    },
+    "dd_off": {
+     "trials": 2000,
+     "valid": 1981,
+     "common": 1962,
+     "median_total_us_all_valid": 275.623,
+     "median_total_us_common": 275.40200000000004,
+     "stock_median_total_us_common": 277.381,
+     "wins_paired": 987
+    },
+    "r075": {
+     "trials": 2000,
+     "valid": 1979,
+     "common": 1956,
+     "median_total_us_all_valid": 293.092,
+     "median_total_us_common": 291.9295,
+     "stock_median_total_us_common": 277.423,
+     "wins_paired": 834
+    },
+    "r075_dd_off": {
+     "trials": 2000,
+     "valid": 1977,
+     "common": 1954,
+     "median_total_us_all_valid": 290.352,
+     "median_total_us_common": 290.116,
+     "stock_median_total_us_common": 277.4865,
+     "wins_paired": 844
+    },
+    "r125": {
+     "trials": 2000,
+     "valid": 1977,
+     "common": 1954,
+     "median_total_us_all_valid": 269.174,
+     "median_total_us_common": 268.76750000000004,
+     "stock_median_total_us_common": 277.1095,
+     "wins_paired": 1070
+    },
+    "r125_dd_off": {
+     "trials": 2000,
+     "valid": 1977,
+     "common": 1955,
+     "median_total_us_all_valid": 264.014,
+     "median_total_us_common": 263.266,
+     "stock_median_total_us_common": 277.213,
+     "wins_paired": 1056
+    },
+    "r150": {
+     "trials": 2000,
+     "valid": 1980,
+     "common": 1957,
+     "median_total_us_all_valid": 263.77,
+     "median_total_us_common": 263.742,
+     "stock_median_total_us_common": 277.333,
+     "wins_paired": 1128
+    }
+   },
+   "table_pick": {
+    "stock": {
+     "trials": 1980,
+     "valid": 1976,
+     "common": 1976,
+     "median_total_us_all_valid": 157.8265,
+     "median_total_us_common": 157.8265,
+     "stock_median_total_us_common": 157.8265,
+     "wins_paired": 0
+    },
+    "dd_off": {
+     "trials": 1980,
+     "valid": 1972,
+     "common": 1968,
+     "median_total_us_all_valid": 158.12,
+     "median_total_us_common": 158.12,
+     "stock_median_total_us_common": 157.721,
+     "wins_paired": 982
+    },
+    "r075": {
+     "trials": 1980,
+     "valid": 1970,
+     "common": 1966,
+     "median_total_us_all_valid": 158.274,
+     "median_total_us_common": 158.233,
+     "stock_median_total_us_common": 157.787,
+     "wins_paired": 974
+    },
+    "r075_dd_off": {
+     "trials": 1980,
+     "valid": 1970,
+     "common": 1966,
+     "median_total_us_all_valid": 158.6345,
+     "median_total_us_common": 158.6685,
+     "stock_median_total_us_common": 157.787,
+     "wins_paired": 892
+    },
+    "r125": {
+     "trials": 1980,
+     "valid": 1972,
+     "common": 1968,
+     "median_total_us_all_valid": 155.756,
+     "median_total_us_common": 155.756,
+     "stock_median_total_us_common": 157.8265,
+     "wins_paired": 989
+    },
+    "r125_dd_off": {
+     "trials": 1980,
+     "valid": 1970,
+     "common": 1966,
+     "median_total_us_all_valid": 156.55349999999999,
+     "median_total_us_common": 156.55349999999999,
+     "stock_median_total_us_common": 157.8265,
+     "wins_paired": 968
+    },
+    "r150": {
+     "trials": 1980,
+     "valid": 1975,
+     "common": 1971,
+     "median_total_us_all_valid": 155.135,
+     "median_total_us_common": 155.164,
+     "stock_median_total_us_common": 157.797,
+     "wins_paired": 1041
+    }
+   },
+   "table_under_pick": {
+    "stock": {
+     "trials": 2000,
+     "valid": 1934,
+     "common": 1934,
+     "median_total_us_all_valid": 253.2615,
+     "median_total_us_common": 253.2615,
+     "stock_median_total_us_common": 253.2615,
+     "wins_paired": 0
+    },
+    "dd_off": {
+     "trials": 2000,
+     "valid": 1931,
+     "common": 1867,
+     "median_total_us_all_valid": 247.03,
+     "median_total_us_common": 247.742,
+     "stock_median_total_us_common": 254.113,
+     "wins_paired": 953
+    },
+    "r075": {
+     "trials": 2000,
+     "valid": 1909,
+     "common": 1847,
+     "median_total_us_all_valid": 264.807,
+     "median_total_us_common": 264.836,
+     "stock_median_total_us_common": 253.82,
+     "wins_paired": 769
+    },
+    "r075_dd_off": {
+     "trials": 2000,
+     "valid": 1921,
+     "common": 1857,
+     "median_total_us_all_valid": 256.85,
+     "median_total_us_common": 256.854,
+     "stock_median_total_us_common": 253.59,
+     "wins_paired": 856
+    },
+    "r125": {
+     "trials": 2000,
+     "valid": 1924,
+     "common": 1860,
+     "median_total_us_all_valid": 246.12099999999998,
+     "median_total_us_common": 246.41500000000002,
+     "stock_median_total_us_common": 253.091,
+     "wins_paired": 1004
+    },
+    "r125_dd_off": {
+     "trials": 2000,
+     "valid": 1939,
+     "common": 1875,
+     "median_total_us_all_valid": 242.212,
+     "median_total_us_common": 242.953,
+     "stock_median_total_us_common": 253.756,
+     "wins_paired": 1048
+    },
+    "r150": {
+     "trials": 2000,
+     "valid": 1939,
+     "common": 1873,
+     "median_total_us_all_valid": 245.459,
+     "median_total_us_common": 245.52,
+     "stock_median_total_us_common": 253.726,
+     "wins_paired": 1052
+    }
+   }
+  }
+ },
+ "seedgrid-confirm-s20-39.json": {
+  "seeds": [
+   20,
+   39
+  ],
+  "reps": 3,
+  "configs": {
+   "stock": {},
+   "r150": {
+    "range": 1.5
+   },
+   "r125": {
+    "range": 1.25
+   },
+   "r125_dd_off": {
+    "range": 1.25,
+    "dynamic_domain": false
+   },
+   "dd_off": {
+    "dynamic_domain": false
+   }
+  },
+  "summary": {
+   "box": {
+    "stock": {
+     "trials": 2000,
+     "valid": 1980,
+     "common": 1980,
+     "median_total_us_all_valid": 285.39549999999997,
+     "median_total_us_common": 285.39549999999997,
+     "stock_median_total_us_common": 285.39549999999997,
+     "wins_paired": 0
+    },
+    "r150": {
+     "trials": 2000,
+     "valid": 1980,
+     "common": 1960,
+     "median_total_us_all_valid": 267.8095,
+     "median_total_us_common": 267.8895,
+     "stock_median_total_us_common": 284.932,
+     "wins_paired": 1145
+    },
+    "r125": {
+     "trials": 2000,
+     "valid": 1978,
+     "common": 1958,
+     "median_total_us_all_valid": 273.14549999999997,
+     "median_total_us_common": 273.031,
+     "stock_median_total_us_common": 285.464,
+     "wins_paired": 1076
+    },
+    "r125_dd_off": {
+     "trials": 2000,
+     "valid": 1980,
+     "common": 1960,
+     "median_total_us_all_valid": 272.1505,
+     "median_total_us_common": 272.1505,
+     "stock_median_total_us_common": 285.28999999999996,
+     "wins_paired": 1064
+    },
+    "dd_off": {
+     "trials": 2000,
+     "valid": 1980,
+     "common": 1961,
+     "median_total_us_all_valid": 284.647,
+     "median_total_us_common": 284.367,
+     "stock_median_total_us_common": 285.255,
+     "wins_paired": 966
+    }
+   },
+   "table_pick": {
+    "stock": {
+     "trials": 1980,
+     "valid": 1973,
+     "common": 1973,
+     "median_total_us_all_valid": 161.614,
+     "median_total_us_common": 161.614,
+     "stock_median_total_us_common": 161.614,
+     "wins_paired": 0
+    },
+    "r150": {
+     "trials": 1980,
+     "valid": 1969,
+     "common": 1962,
+     "median_total_us_all_valid": 158.705,
+     "median_total_us_common": 158.6945,
+     "stock_median_total_us_common": 161.6345,
+     "wins_paired": 1007
+    },
+    "r125": {
+     "trials": 1980,
+     "valid": 1975,
+     "common": 1968,
+     "median_total_us_all_valid": 159.126,
+     "median_total_us_common": 158.96699999999998,
+     "stock_median_total_us_common": 161.59300000000002,
+     "wins_paired": 991
+    },
+    "r125_dd_off": {
+     "trials": 1980,
+     "valid": 1967,
+     "common": 1960,
+     "median_total_us_all_valid": 159.038,
+     "median_total_us_common": 158.9865,
+     "stock_median_total_us_common": 161.1445,
+     "wins_paired": 1007
+    },
+    "dd_off": {
+     "trials": 1980,
+     "valid": 1973,
+     "common": 1968,
+     "median_total_us_all_valid": 160.364,
+     "median_total_us_common": 160.32299999999998,
+     "stock_median_total_us_common": 161.624,
+     "wins_paired": 1004
+    }
+   },
+   "table_under_pick": {
+    "stock": {
+     "trials": 2000,
+     "valid": 1938,
+     "common": 1938,
+     "median_total_us_all_valid": 250.777,
+     "median_total_us_common": 250.777,
+     "stock_median_total_us_common": 250.777,
+     "wins_paired": 0
+    },
+    "r150": {
+     "trials": 2000,
+     "valid": 1947,
+     "common": 1888,
+     "median_total_us_all_valid": 245.001,
+     "median_total_us_common": 245.0675,
+     "stock_median_total_us_common": 250.831,
+     "wins_paired": 1079
+    },
+    "r125": {
+     "trials": 2000,
+     "valid": 1933,
+     "common": 1875,
+     "median_total_us_all_valid": 250.299,
+     "median_total_us_common": 250.48,
+     "stock_median_total_us_common": 251.522,
+     "wins_paired": 1042
+    },
+    "r125_dd_off": {
+     "trials": 2000,
+     "valid": 1953,
+     "common": 1892,
+     "median_total_us_all_valid": 241.935,
+     "median_total_us_common": 242.8185,
+     "stock_median_total_us_common": 251.19549999999998,
+     "wins_paired": 1075
+    },
+    "dd_off": {
+     "trials": 2000,
+     "valid": 1922,
+     "common": 1864,
+     "median_total_us_all_valid": 249.195,
+     "median_total_us_common": 249.8605,
+     "stock_median_total_us_common": 251.19549999999998,
+     "wins_paired": 971
+    }
+   }
+  }
+ }
+}
