@@ -1,0 +1,1 @@
+{"fetch": {"valid_problems": 679, "start_out_of_bounds": 12, "goal_out_of_bounds": 130}, "panda": {"valid_problems": 699, "start_out_of_bounds": 0, "goal_out_of_bounds": 0}, "ur5": {"valid_problems": 689, "start_out_of_bounds": 0, "goal_out_of_bounds": 0}, "baxter": {"valid_problems": 1470, "start_out_of_bounds": 0, "goal_out_of_bounds": 9}}

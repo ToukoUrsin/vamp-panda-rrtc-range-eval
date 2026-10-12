@@ -25,4 +25,6 @@ Reproduce: `pip install vamp-planner==0.6.4`, put MotionBenchMaker `resources/pa
 
 Limits: one CPU model, three Panda sets, VAMP's own validator (no independent mesh checker in this packet).
 
+All four robots (Panda, UR5, Fetch, Baxter), all MBM sets, range 0.25-3.0: [`all-robots/`](all-robots/README.md).
+
 Touko Ursin, touko.ursin@gmail.com
